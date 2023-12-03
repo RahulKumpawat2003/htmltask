@@ -1,0 +1,30 @@
+body{
+    background-image: url(14bcf47e-dcdf-46e9-a07e-8412bd3f1510.jpg);
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+}
+.out{
+    height:550px;
+    width:350px;
+    background-color: white;
+    margin-top:50px;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+
+}
+h2{
+    margin-left:130px;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+.in{
+    margin-bottom: 20px;
+}
+input{
+   width:330px; 
+}
+label{
+font-weight: bolder;
+}
